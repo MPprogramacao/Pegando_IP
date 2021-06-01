@@ -1,0 +1,10 @@
+C:\Users\Matheus\Desktop\Projetos\C#\Pegando_IP\bin\Debug\Pegando_IP.exe.config
+C:\Users\Matheus\Desktop\Projetos\C#\Pegando_IP\bin\Debug\Pegando_IP.exe
+C:\Users\Matheus\Desktop\Projetos\C#\Pegando_IP\bin\Debug\Pegando_IP.pdb
+C:\Users\Matheus\Desktop\Projetos\C#\Pegando_IP\obj\Debug\Pegando_IP.csprojAssemblyReference.cache
+C:\Users\Matheus\Desktop\Projetos\C#\Pegando_IP\obj\Debug\Pegando_IP.Properties.Resources.resources
+C:\Users\Matheus\Desktop\Projetos\C#\Pegando_IP\obj\Debug\Pegando_IP.csproj.GenerateResource.cache
+C:\Users\Matheus\Desktop\Projetos\C#\Pegando_IP\obj\Debug\Pegando_IP.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Desktop\Projetos\C#\Pegando_IP\obj\Debug\Pegando_IP.exe
+C:\Users\Matheus\Desktop\Projetos\C#\Pegando_IP\obj\Debug\Pegando_IP.pdb
+C:\Users\Matheus\Desktop\Projetos\C#\Pegando_IP\obj\Debug\Pegando_IP.frmPrincipal.resources
